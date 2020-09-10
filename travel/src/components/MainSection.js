@@ -6,9 +6,9 @@ import './MainSection.css';
 function MainSection() {
     return (
         <div className="main_container">
-            <video src="/videos/video-2.mp4" autoPlay loop muted />
+            <video src="/videos/video_4.mp4" autoPlay loop muted />
 
-            <h1>DIVE IN TO EXPLORE.</h1>
+            <h1>DIVE IN TO EXPLORE</h1>
             <p>What are you waiting for?</p>
 
             <div className="main_btns">
